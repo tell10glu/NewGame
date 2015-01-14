@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Row</key>
+	<integer>6</integer>
+	<key>Column</key>
+	<integer>4</integer>
+	<key>Blocks</key>
+	<array>
+		<dict>
+			<key>Coordinates</key>
+			<array>
+				<string>{0,0}</string>
+				<string>{0,1}</string>
+				<string>{0,2}</string>
+				<string>{0,3}</string>
+				<string>{1,0}</string>
+				<string>{1,1}</string>
+				<string>{1,2}</string>
+				<string>{2,0}</string>
+				<string>{2,1}</string>
+				<string>{2,2}</string>
+				<string>{3,0}</string>
+				<string>{3,1}</string>
+				<string>{3,2}</string>
+				<string>{4,0}</string>
+				<string>{4,1}</string>
+				<string>{4,2}</string>
+			</array>
+			<key>Up</key>
+			<false/>
+			<key>Right</key>
+			<true/>
+			<key>Left</key>
+			<true/>
+			<key>Top</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Up</key>
+			<false/>
+			<key>Right</key>
+			<true/>
+			<key>Left</key>
+			<true/>
+			<key>Top</key>
+			<false/>
+		</dict>
+	</array>
+</dict>
+</plist>
